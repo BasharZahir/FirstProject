@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T21:30:22 AST" name="Default suite" finished-at="2024-03-05T21:30:24 AST" duration-ms="1696">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T21:30:22 AST" name="Default test" finished-at="2024-03-05T21:30:24 AST" duration-ms="1696">
+      <class name="MyTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:MyTestCases@c35172e]" started-at="2024-03-05T21:30:22 AST" name="mySetup" finished-at="2024-03-05T21:30:23 AST" duration-ms="1231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="Login()[pri:0, instance:MyTestCases@c35172e]" started-at="2024-03-05T21:30:23 AST" name="Login" finished-at="2024-03-05T21:30:24 AST" duration-ms="432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="AfterTesting()[pri:0, instance:MyTestCases@c35172e]" started-at="2024-03-05T21:30:24 AST" name="AfterTesting" finished-at="2024-03-05T21:30:24 AST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTesting -->
+      </class> <!-- MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
