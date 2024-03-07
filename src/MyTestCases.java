@@ -41,6 +41,8 @@ public class MyTestCases {
 			addtocartButtons.get(i).click();
 			
 		}
+		
+		String myName = " Bashar Zahir";
 	
 	
 	
